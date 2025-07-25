@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Basic T-Shirt",
+    "category": "Apparel",
+    "price": 19.99
+  },
+  {
+    "id": "2",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 59.99
+  },
+  {
+    "id": "3",
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 89.5
+  },
+  {
+    "id": "0b3da07b-d922-47dc-a294-d1ef3d81452f",
+    "name": "Hoodie",
+    "category": "Apparel",
+    "price": 29.99
+  }
+]
