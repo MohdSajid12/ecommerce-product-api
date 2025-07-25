@@ -27,7 +27,7 @@ A simple RESTful API for managing product data, built with **Node.js** and **Exp
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ecommerce-product-api.git
+git clone https://github.com/MohdSajid12/ecommerce-product-api
 
 # 2. Navigate into the folder
 cd ecommerce-product-api
